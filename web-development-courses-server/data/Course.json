@@ -1,0 +1,20 @@
+[
+     {
+          "_id": "0282e0e44a5c404fbd15261f11c2ab6a",
+          "category_id": "01",
+          "title": "Html",
+          "Course_Fees": 350,
+          "days": 30,
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png",
+          "details": "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript."
+        },
+     {
+          "_id": "0282e0e44a5c404fbd24261f11c2ab6a",
+          "category_id": "01",
+          "title": "Css",
+          "Course_Fees": 370,
+          "days": 36,
+          "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+          "details": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript"
+        }
+]

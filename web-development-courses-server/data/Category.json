@@ -1,0 +1,27 @@
+[
+     
+     {
+           "id": "01",
+           "name": "Html"
+         },
+     {
+           "id": "02",
+           "name": "Css"
+         },
+     {
+           "id": "03",
+           "name": "Bootstrap"
+         },
+     {
+           "id": "04",
+           "name": "JavaScript"
+         },
+     {
+           "id": "05",
+           "name": "React"
+         },
+     {
+           "id": "06",
+           "name": "Node Js"
+         }
+]
