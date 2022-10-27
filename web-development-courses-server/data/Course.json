@@ -10,11 +10,29 @@
         },
      {
           "_id": "0282e0e44a5c404fbd24261f11c2ab6a",
-          "category_id": "01",
+          "category_id": "02",
           "title": "Css",
           "Course_Fees": 370,
           "days": 36,
           "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
           "details": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript"
+        },
+     {
+          "_id": "0212e0e44a5c304fbd24261f11c2ab6a",
+          "category_id": "03",
+          "title": "Bootstrap",
+          "Course_Fees": 340,
+          "days": 20,
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png",
+          "details": "Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains HTML, CSS and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components."
+        },
+     {
+          "_id": "0583e0e44a5c404fbd24261f11c2ab6a",
+          "category_id": "04",
+          "title": "JavaScript",
+          "Course_Fees": 420,
+          "days": 60,
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png",
+          "details": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries."
         }
 ]
