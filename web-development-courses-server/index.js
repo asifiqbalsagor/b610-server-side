@@ -34,7 +34,7 @@ app.get("/course-categories", (req, res) => {
 });
 
 app.listen(Port, () => {
-  console.log("server is running", Port);
+  console.log(" Now server is running", Port);
 });
 
 module.exports = app;
