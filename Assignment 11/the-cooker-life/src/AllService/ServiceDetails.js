@@ -27,7 +27,6 @@ const ServiceDetails = () => {
           </div>
         </div>
       </div>
-
       <AddReviewFom></AddReviewFom>
     </div>
   );
