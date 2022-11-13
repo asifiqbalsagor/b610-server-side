@@ -14,7 +14,6 @@ const AddService = () => {
 	const img = from.photoURL.value;
 
 	const description = from.description.value
-
 	const CreateService = {
 		title,
 		price,
