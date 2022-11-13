@@ -92,7 +92,7 @@ const Make = () => {
             </div>
             <div aria-hidden="true" className="mt-10 lg:mt-0">
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-h5859g6k3s59c6voh464b0q851-20201106131909.Medi.jpeg"
+                src="https://919345.smushcdn.com/2290346/wp-content/uploads/2022/02/52BBA7A4-87DA-4804-B741-1B8076487A20-scaled.jpeg?lossy=1&strip=1&webp=1"
                 alt=""
                 className="mx-auto rounded-lg shadow-lg dark:bg-gray-500"
               />
