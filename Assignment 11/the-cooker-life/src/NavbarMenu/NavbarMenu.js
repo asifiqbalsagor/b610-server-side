@@ -28,7 +28,6 @@ const NavbarMenu = () => {
             title=" Tasty Foods"
             class="inline-flex items-center"
           >
-        
             <span class="ml-2 text-xl font-bold tracking-wide text-gray-100 uppercase">
               The Cooker life
             </span>
@@ -56,7 +55,7 @@ const NavbarMenu = () => {
               </Link>
             </li>
 
-            {(
+            {
               <li>
                 <Link
                   to="/addReview"
@@ -67,9 +66,9 @@ const NavbarMenu = () => {
                   My Reviews
                 </Link>
               </li>
-            )}
+            }
 
-            { (
+            {
               <li>
                 <Link
                   to="/addService"
@@ -80,7 +79,7 @@ const NavbarMenu = () => {
                   Add Service
                 </Link>
               </li>
-            )}
+            }
 
             <li>
               <Link
@@ -94,7 +93,7 @@ const NavbarMenu = () => {
             </li>
           </ul>
           <ul class="flex items-center hidden space-x-8 lg:flex">
-            { (
+            {
               <button
                 onClick={handleLogOut}
                 className="btn btn-outline btn-error"
@@ -102,8 +101,8 @@ const NavbarMenu = () => {
                 {" "}
                 log out
               </button>
-            )}
-            {(
+            }
+            {
               <Link
                 to="/loginuser"
                 aria-label="Product pricing"
@@ -112,7 +111,7 @@ const NavbarMenu = () => {
               >
                 <button className="btn btn-outline btn-success">Log In</button>
               </Link>
-            )}
+            }
           </ul>
           <div class="lg:hidden">
             <button

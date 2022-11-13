@@ -68,7 +68,7 @@ const AddReviewFom = () => {
               <h2 className=" text-3xl text-center mb-3 font-bold leading-tight">
                 Add Your Review{" "}
               </h2>
-              <div className="grid lg:grid-cols-2 md:grid-cols-2 gap-4 "></div>
+              <div className=" "></div>
               <div>
                 <label for="message" className="block mb-1 ml-1">
                   Your Email
@@ -117,31 +117,9 @@ const AddReviewFom = () => {
         )}
 
         {!user && (
-          <div className="shadow-2xl shadow-slate-400 py-4 pb-12 container mx-auto rounded-2xl">
-            <img
-              style={{ width: "200px" }}
-              className="mx-auto"
-              src="https://cdn-icons-png.flaticon.com/512/272/272354.png"
-              alt=""
-            />
-            <h1 className="text-center text-5xl opacity-50 font-semibold ">
-              Please Login to add a review
-            </h1>
-          </div>
-        )}
-
-        {!user && (
-          <img
-            src="https://img.freepik.com/premium-vector/cyber-security-concept-people-work-screen-protecting-data-confidentiality-illustration_138260-701.jpg"
-            alt=""
-          />
-        )}
-
-        {user && user.email && (
-          <img
-            src="http://unblast.com/wp-content/uploads/2020/10/Feedback-Vector-Illustration.jpg"
-            alt=""
-          />
+          <h1 className="text-center text-5xl opacity-50 font-semibold ">
+            Please Login to add a review
+          </h1>
         )}
       </div>
     </div>

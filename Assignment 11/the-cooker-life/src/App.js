@@ -7,8 +7,10 @@ import Home from "./Home/Home";
 import Main from "./Layout/Main";
 import Register from "./Login&Register/Register/Register";
 import AddService from "./AllService/NewAddService/AddService";
-import Login from "./Login&Register/Login/Login"
+import Login from "./Login&Register/Login/Login";
 import LoginUser from "./Login&Register/Login/LoginUser";
+import Blogs from "./Components/Blogs";
+import Errorhandle from "./Components/Errorhandle";
 
 function App() {
   const router = createBrowserRouter([
@@ -54,6 +56,14 @@ function App() {
         {
           path: "/loginuser",
           element: <LoginUser></LoginUser>,
+        },
+        {
+          path: "/blogs",
+          element: <Blogs></Blogs>,
+        },
+        {
+          path: "/*",
+          element: <Errorhandle></Errorhandle>,
         },
       ],
     },
