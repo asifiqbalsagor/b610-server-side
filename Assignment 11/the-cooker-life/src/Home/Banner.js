@@ -15,7 +15,7 @@ const Banner = () => {
           </svg>
           <img
             className="object-cover w-full h-56 rounded shadow-lg lg:rounded-none lg:shadow-none md:h-96 lg:h-full"
-            src="https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
+            src="https://919345.smushcdn.com/2290346/wp-content/uploads/2022/02/52BBA7A4-87DA-4804-B741-1B8076487A20-scaled.jpeg?lossy=1&strip=1&webp=1"
             alt=""
           />
         </div>
