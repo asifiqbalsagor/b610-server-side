@@ -7,7 +7,6 @@ const All_Service = () => {
   const services = useLoaderData();
 
   const { user } = useContext(AuthContext);
-
   const [service, setService] = useState([]);
   console.log(service);
   useEffect(() => {
